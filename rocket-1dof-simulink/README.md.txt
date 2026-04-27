@@ -29,16 +29,16 @@ Results were obtained from Simulink time-series outputs.
 ## Simulation Plots
 
 ### Altitude vs Time
-![Altitude vs Time](results/altitude_vs_time.png)
+![Altitude](results/altitude_vs_time.png)
 
 ### Velocity vs Time
-![Velocity vs Time](results/velocity_vs_time.png)
+![Velocity](results/velocity_vs_time.png)
 
 ### Mach vs Time
-![Mach vs Time](results/mach_vs_time.png)
+![Mach](results/mach_vs_time.png)
 
 ### Dynamic Pressure vs Time
-![Dynamic Pressure vs Time](results/dynamic_pressure_vs_time.png)
+![Dynamic Pressure](results/dynamic_pressure_vs_time.png)
 
 ---
 
