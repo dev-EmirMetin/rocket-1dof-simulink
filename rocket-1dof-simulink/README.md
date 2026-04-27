@@ -119,6 +119,14 @@ Thrust [N]: [0, 800, 1500, 1500, 1300, 600, 0]
 - 6DOF rigid-body dynamics
 - Parachute / recovery system
 - Wind and disturbance modeling
+
+- ## How to Run
+1. Open `model/rocket_1dof_vertical_sim.slx` in MATLAB/Simulink
+2. Click **Run**
+3. Outputs are saved to workspace variables:
+   - `h_out`, `v_out`, `mach_out`, `q_out`
+4. Use scripts in `scripts/` to generate plots
+
 - Real motor data integration
 
 ---
